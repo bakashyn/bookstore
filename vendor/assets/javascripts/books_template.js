@@ -1,0 +1,10 @@
+//= require bootstrap.min
+//= require bootstrap-slider
+//= require classie
+//= require functions
+//= require jquery.bxslider.min
+//= require jquery.counterup.min
+//= require jquery.dlmenu
+//= require jquery
+//= require modernizr.custom
+//= require waypoints.min
